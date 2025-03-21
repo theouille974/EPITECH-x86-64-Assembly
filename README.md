@@ -1,6 +1,23 @@
 # EPITECH-x86-64-Assembly
 { EPITECH } -B-ASM-400-x86-64-Assembly
 
+## Notes
+
+- `strlen` : 100 %
+- `strchr` : 100 %
+- `strrchr` : 100 %
+- `memset` : 100 %
+- `memcpy` : 100 %
+- `strcmp` : 100 %
+- `memmove` : 57.1% %
+- `strncmp` : 100 %
+- `strcasecmp` : 100 %
+- `strstr` : 100 %
+- `strpbrk` : 100 %
+- `strcspn` : 100 %
+
+---
+
 # MiniLibC
 
 **Binary Name:** `libasm.so`
